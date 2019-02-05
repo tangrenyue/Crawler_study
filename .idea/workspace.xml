@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4ae7cfe-17e4-481f-8f3e-11444000a78a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/amazon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/goods_price_compare.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/photo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/school_rank.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/stock_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +18,7 @@
     <SUITE FILE_PATH="coverage/Crawler_study$school_rank.coverage" NAME="school_rank Coverage Results" MODIFIED="1549347165080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,12 +38,16 @@
         <option value="$PROJECT_DIR$/study/goods_price_compare.py" />
         <option value="$PROJECT_DIR$/study/amazon.py" />
         <option value="$PROJECT_DIR$/study/stock_info.py" />
+        <option value="$PROJECT_DIR$/study/sina_news.py" />
+        <option value="$PROJECT_DIR$/baidu_stock/baidu_stock/pipelines.py" />
+        <option value="$PROJECT_DIR$/baidu_stock/baidu_stock/spiders/stocks.py" />
+        <option value="$PROJECT_DIR$/baidu_stock/baidu_stock/settings.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="324" />
-    <option name="y" value="75" />
+    <option name="x" value="125" />
+    <option name="y" value="23" />
     <option name="width" value="939" />
     <option name="height" value="682" />
   </component>
@@ -64,11 +63,6 @@
             <path>
               <item name="Crawler_study" type="b2602c69:ProjectViewProjectNode" />
               <item name="Crawler_study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Crawler_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Crawler_study" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -229,16 +223,18 @@
       <workItem from="1549332164841" duration="11334000" />
       <workItem from="1549355847375" duration="3000" />
       <workItem from="1549355852738" duration="3000" />
+      <workItem from="1549359176105" duration="286000" />
+      <workItem from="1549362123533" duration="2523000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11340000" />
+    <option name="totallyTimeSpent" value="14149000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="324" y="75" width="939" height="682" extended-state="0" />
+    <frame x="125" y="23" width="939" height="682" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1594203" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21516165" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -295,20 +291,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study/stock_info.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <element signature="e#98#266#0" />
-            <element signature="e#366#768#0" />
-            <element signature="e#894#1949#0" />
-            <element signature="e#1764#2107#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/study/school_rank.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="436">
@@ -326,6 +308,62 @@
           <folding>
             <element signature="e#23#38#0" expanded="true" />
             <element signature="e#1426#2201#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/sina_news.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baidu_stock/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/stock_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-208">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baidu_stock/baidu_stock/items.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baidu_stock/BaiduStockInfo.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baidu_stock/baidu_stock/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baidu_stock/baidu_stock/spiders/stocks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baidu_stock/baidu_stock/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="24" column="15" lean-forward="true" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+          <folding>
+            <element signature="n#!!doc" />
           </folding>
         </state>
       </provider>
